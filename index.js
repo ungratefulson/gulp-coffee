@@ -1,5 +1,5 @@
 var es = require('event-stream');
-var coffee = require('coffee-script');
+var coffee = require('coffee-script-nightly');
 var gutil = require('gulp-util');
 var Buffer = require('buffer').Buffer;
 var applySourceMap = require('vinyl-sourcemaps-apply');
