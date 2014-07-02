@@ -19,7 +19,7 @@
 ## Usage
 
 ```javascript
-var coffee = require('gulp-coffee');
+var coffee = require('gulp-coffee-nightly');
 
 gulp.task('coffee', function() {
   gulp.src('./src/*.coffee')
